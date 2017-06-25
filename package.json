@@ -1,15 +1,13 @@
 {
-  "name": "emacs-tab",
+  "name": "emacs-flow",
   "main": "./lib/index",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Makes the tab key behave like it does in Emacs",
-  "repository": "https://github.com/grischa/atom-emacs-tab",
+  "repository": "https://github.com/sakapoko/atom-emacs-flow",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0"
   },
   "dependencies": {},
-  "devDependencies": {
-    "temp": "~0.6.0"
-  }
+  "devDependencies": {}
 }

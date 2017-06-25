@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## **v0.2.0** &mdash; *Released: 25 Jun 2017*
+* Rewritten by Javascript.
+* More emacs like behavior.
+
 ## **v0.1.0** &mdash; *Released: 21 December 2014*
 
 * Update for the latest APIs. This version is only compatible with Atom v0.164.0 and up.
